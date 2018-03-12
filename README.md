@@ -1,5 +1,7 @@
 # BlackPanther--emojis
+
 Top20 Emoji in #BlackPanther
+
                                EMOJI Count Retweets Favorites rank      dens Codepoint
                                
 1                FACEWITHTEARSOFJOY    531     9217     24644    1 216.38142   U+1F602
